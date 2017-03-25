@@ -1,3 +1,3 @@
 # Prediction-Assignment-Writeup
 
-Please open the HTML file which is produced from the R Markdown.
+Please open the HTML file which is produced from an R Markdown.
